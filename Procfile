@@ -1,0 +1,1 @@
+web: gunicorn COLO.wsgi --log-file -
